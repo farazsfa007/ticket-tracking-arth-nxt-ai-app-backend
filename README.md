@@ -42,7 +42,6 @@ An intelligent, full-stack internal ticketing platform that leverages Google's G
 
 ### Prerequisites
 * Python 3.12+
-* Node.js v18+
 * A valid Google Gemini API Key
 
 ### 1. Backend Setup
