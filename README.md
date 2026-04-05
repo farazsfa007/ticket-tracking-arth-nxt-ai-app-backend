@@ -2,9 +2,9 @@
 
 An intelligent, full-stack internal ticketing platform that leverages Google's Gemini AI to read, analyze, auto-resolve, and intelligently route incoming support tickets. 
 
-**Live Frontend (Netlify):** [https://ticketing-ai.netlify.app/](https://ticketing-ai.netlify.app/)
-**Live Backend API (Render):** [https://ticket-tracking-arth-nxt-ai-app-backend.onrender.com](https://ticket-tracking-arth-nxt-ai-app-backend.onrender.com)
-**📺 Demo Video:** [Watch on Loom](https://www.loom.com/share/f66729a0354a4608beb504d9bc5751c7)
+- **Live Frontend (Netlify):** [https://ticketing-ai.netlify.app/](https://ticketing-ai.netlify.app/)
+- **Live Backend API (Render):** [https://ticket-tracking-arth-nxt-ai-app-backend.onrender.com](https://ticket-tracking-arth-nxt-ai-app-backend.onrender.com)
+- **📺 Demo Video:** [Watch on Loom](https://www.loom.com/share/f66729a0354a4608beb504d9bc5751c7)
 
 ---
 
